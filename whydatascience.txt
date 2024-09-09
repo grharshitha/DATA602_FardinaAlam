@@ -1,0 +1,7 @@
+Why are you interested in taking DATA602?
+
+I am interested in taking the DATA602 course because it focuses on the data analysis process and pipelining, 
+which are key areas I want to master. Understanding how to clean, process, and extract insights from data is fundamental to 
+becoming an effective data scientist. The course will equip me with the practical tools and methods to streamline data workflows, 
+from collection to visualization. Additionally, learning how to manage and optimize these pipelines will enhance my ability to 
+handle complex data problems in real-world applications, a crucial skill in today's data-driven world.
